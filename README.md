@@ -1,4 +1,4 @@
-📚 Book Management System
+📚 Library Management System
 A simple Java Web Application built using Servlets, JDBC, and Oracle Database to manage books and authors.
 This project demonstrates the MVC (Model–View–Controller) architecture and performs basic operations such as adding a new book and viewing book details using ISBN.
 
