@@ -94,3 +94,14 @@ Developed as a learning project for practicing Java Web Development concepts.
 
 📜 License
 This project is free to use for educational purposes.
+
+Output:
+
+<img width="494" height="403" alt="image" src="https://github.com/user-attachments/assets/418a87d7-d221-44b0-baa4-d3b4d46b509c" />
+
+<img width="813" height="129" alt="image" src="https://github.com/user-attachments/assets/0b789788-f0bd-4ad6-8dc0-57fe22052a04" />
+
+<img width="644" height="656" alt="image" src="https://github.com/user-attachments/assets/39f86860-22fb-49c9-b6d2-736e1548c288" />
+
+
+
